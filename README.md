@@ -4,9 +4,7 @@
 | Title               | Topic                                                                  | 
 | --------------------|:----------------------------------------------------------------------:| 
 | assignment0_04_tree | Desicion Tree from Scratch                                             | 
-|---------------------|:----------------------------------------------------------------------:|
 | lab_2               | Dealing with overfitting                                               |
 |                     | Pushkin's poems generation                                             |
 |                     | Dog breed classification                                               |   
-| --------------------|:----------------------------------------------------------------------:|
 | nn_from_scratch     | Multilayer perceptron on PyTorch                                       |   
