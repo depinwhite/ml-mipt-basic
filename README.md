@@ -7,4 +7,4 @@
 | lab_2               | Dealing with overfitting                                               |
 |                     | Pushkin's poems generation                                             |
 |                     | Dog breed classification                                               |   
-| nn_from_scratch     | Multilayer perceptron on PyTorch                                       |   
+| nn_from_scratch     | NN(as in PyTorch) modules from Scratch                                 |   
