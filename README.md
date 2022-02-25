@@ -1,4 +1,4 @@
-# ml-mipt-basic
+# Machile Learning MIPT basic course.
  The most interesting tasks from the [ml basic](https://github.com/girafe-ai/ml-mipt/tree/21f_basic) track that I took in the fall of 2021.
 
 | Title               | Topic                                                                  | 
